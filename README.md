@@ -8,7 +8,7 @@ Maria DB
 phpMyAdmin
 
 Installation
-git clone :
+git clone : https://saipavanbm.github.io/lempserver/.
 cd DOCKERLEMP/
 docker-compose up -d
 // visit localhost
