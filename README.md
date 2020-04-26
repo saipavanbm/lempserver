@@ -1,0 +1,14 @@
+# lempserver
+
+A basic LAMP stack environment built using Docker Compose. It consists of the following:
+
+PHP
+Apache
+Maria DB
+phpMyAdmin
+
+Installation
+git clone :
+cd DOCKERLEMP/
+docker-compose up -d
+// visit localhost
